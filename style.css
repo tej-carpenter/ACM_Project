@@ -163,14 +163,14 @@ h1 {
     margin: 20px 20px;
     height: 300px;
     width: 600px;
-    /* background-color: #ffffff86; */
+    background-color: #ffffff;
     border-radius: 20px;
     box-shadow: 5px 5px 8px #00000090;
+    cursor: pointer;
 }
 
 .event-card:hover {
     box-shadow: 30px 30px 50px #000000ba;
-    cursor: pointer;
     transform: scale(105%,105%);
 }
 
