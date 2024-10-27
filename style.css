@@ -124,7 +124,7 @@ h1 {
     margin: 20px 20px;
     height: 400px;
     width: 300px;
-    background-color: #f0ffed85;
+    background-color: #f0ffed;
     backdrop-filter: blur(9px);
     border-radius: 20px;
     box-shadow: 5px 5px 8px #00000090;
@@ -163,7 +163,8 @@ h1 {
     margin: 20px 20px;
     height: 300px;
     width: 600px;
-    background-color: #ffffff;
+    background-color: #bebebe6d;
+    backdrop-filter: blur(10px);
     border-radius: 20px;
     box-shadow: 5px 5px 8px #00000090;
     cursor: pointer;
